@@ -1,6 +1,6 @@
 # Mini-OTM
 
-A simplified simulation inspired by Oracle OTM concepts, not connected to a real OTM system, is a small Order and Transportation Management (OTM) API prototype built with Python, FastAPI, and SQLite. It demonstrates a basic shipment workflow: register order releases, group them by route, select the lowest-cost carrier, create shipments, record tracking events, and summarize shipping costs by carrier.
+A simplified simulation inspired by Oracle OTM concepts. Small Order and Transportation Management (OTM) API prototype built with Python, FastAPI, and SQLite. It demonstrates a basic shipment workflow: register order releases, group them by route, select the lowest-cost carrier, create shipments, record tracking events, and summarize shipping costs by carrier.
 
 > This is a learning project and a prototype. It is not a production logistics or port-management system.
 
